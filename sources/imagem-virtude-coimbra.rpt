@@ -1,0 +1,89 @@
+KleioTranslator - server version 2021.A3 - build 1643 (quotes-in-kleio-134) 10/05/2021 18:02 
+11-5-2021 3-3
+
+Processing data file imagem-virtude-coimbra.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 142
+Obs: 
+** Processing source fonte$imagem-virtude-coimbra
+6: lista$imagem-virtude-cap.1
+54: viagem$ivc-francisco-xavier-his6-35
+59: viagem$ivc-francisco-xavier-his4-38
+69: viagem$ivc-simao-rodrigues-his7-35
+72: viagem$ivc-simao-rodrigues-his8-40
+77: lista$imagem-virtude-cap-2
+79: lista$ivc-bio-goncalo-da-silveira
+154: pevent$ivc-goncalo-da-silveira-his3-115
+166: viagem$imagem-virtude-v2-his1-18
+173: estadia$imagem-virtude-v2-his2-21
+188: viagem$imagem-virtude-v2-his1-22
+196: viagem$ivc-goncalo-da-silveira-his1-56
+198: estadia$ivc-goncalo-da-silveira-his2-56
+213: estadia$ivc-goncalo-da-silveira-his3-57
+232: estadia$ivc-goncalo-da-silveira-his5-61
+234: estadia$ivc-goncalo-da-silveira-his4-63
+238: viagem$ivc-goncalo-da-silveira-his5-64
+252: estadia$ivc-goncalo-da-silveira-his6-64
+258: estadia$ivc-goncalo-da-silveira-his7-67
+270: viagem$ivc-goncalo-da-silveira-his6-68
+287: estadia$ivc-goncalo-da-silveira-his7-69
+304: pevent$ivc-goncalo-da-silveira-his1-78
+328: pevent$ivc-goncalo-da-silveira-his2-80
+338: viagem$ivc-goncalo-da-silveira-his1-85
+344: pevent$ivc-goncalo-da-silveira-his2-85
+352: pevent$ivc-goncalo-da-silveira-his3-85
+376: pevent$ivc-goncalo-da-silveira-his1-91
+390: viagem$ivc-goncalo-da-silveira-his1-92
+409: estadia$ivc-goncalo-da-silveira-his2-101
+422: pevent$ivc-goncalo-da-silveira-his4-117
+430: estadia$ivc-goncalo-da-silveira-his3-118
+440: viagem$ivc-goncalo-da-silveira-his9-119
+455: pevent$ivc-goncalo-da-silveira-his5-123
+462: pevent$ivc-goncalo-da-silveira-his10-124
+466: evento$imagem-virtude-v2-his1-9
+477: evento$imagem-virtude-v2-his2-10
+492: evento$ivc-bio-goncalo-da-silveira-his8-76
+499: evento$ivc-bio-goncalo-da-silveira-his1-81
+506: evento$ivc-doc2-his6-61
+532: evento$ivc-bio-goncalo-da-silveira-his2-107
+541: carta$ivc-doc1
+551: carta$ivc-doc2
+558: carta$ivc-doc3
+566: carta$ivc-doc4
+583: lista$ivc-bio-antonio-de-almeida
+595: viagem$ivc-bio-antonio-de-almeida-per1-130-his1-130
+597: estadia$ivc-bio-antonio-de-almeida-per1-130-his1-131
+603: estadia$ivc-bio-antonio-de-almeida-per1-130-his2-131
+607: estadia$ivc-bio-antonio-de-almeida-per1-130-his5-135
+611: estadia$ivc-bio-antonio-de-almeida-per1-130-his5-137
+614: carta$carta-antonio-almeida-1586
+*** End of File
+
+Line 140 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-alvaro-silveira) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 329 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-constantino-de-braganca) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 426 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-alvaro-silveira) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 428 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-constantino-de-braganca) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 599 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-alessandro-valignano) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 605 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-michele-ruggieri) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 609 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-michele-ruggieri) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 613 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-matteo-ricci) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+
+** Processed file- /kleio-home/sources/toliveira-china/sources/imagem-virtude-coimbra.cli
+** Original file- /kleio-home/sources/toliveira-china/sources/imagem-virtude-coimbra.org
+** Previous version- /kleio-home/sources/toliveira-china/sources/imagem-virtude-coimbra.old
+** Temp file with ids- /kleio-home/sources/toliveira-china/sources/imagem-virtude-coimbra.ids
+** - /kleio-home/sources/toliveira-china/sources/imagem-virtude-coimbra.cli-renamed to- /kleio-home/sources/toliveira-china/sources/imagem-virtude-coimbra.old
+** - /kleio-home/sources/toliveira-china/sources/imagem-virtude-coimbra.ids-renamed to- /kleio-home/sources/toliveira-china/sources/imagem-virtude-coimbra.cli
+** Translation files closed.
+0  errors. 
+0  warnings.
+Translation finished.
