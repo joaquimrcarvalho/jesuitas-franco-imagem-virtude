@@ -1,5 +1,8 @@
-kleio$gacto2.str/translations=143
-   fonte$imagem-virtude-coimbra/fonte-jesuita/obs= Franco (S.I.), Antonio, Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra em Portugal ... (Évora: na Officina da Universidade, 1719)/ano=1719
+kleio$gacto2.str/translations=150
+   fonte$imagem-virtude-coimbra/fonte-jesuita/obs= """
+      Franco (S.I.), Antonio, Imagem da virtude em o noviciado da Companhia de
+      Jesus no Real Collegio de Jesus de Coimbra em Portugal ... 
+      (Évora: na Officina da Universidade, 1719)"""/ano=1719
 
       lista$imagem-virtude-cap.1/0/0/1719/obs=cit. Da-se sumária notícia do Real Colégio de Jesus de Coimbra. fim cit. Descreve o espaço da alta onde o colégio e a organização interna do edifício.
 
@@ -300,13 +303,40 @@ kleio$gacto2.str/translations=143
                referido$Francisco Barreto/id=ivc-francisco-barreto
                   ls$office/Governador da Índia
 
-            pevent$New laws in India/0/0/1557/obs=Since they could not pass to Etiópia. Jesuits advise governor on new laws. These laws where later aproved by Queen Catarina as regent in the young age of King Sebastião."Seguiu-se disto que as conversões foram muitas em número". "Ouve porém grandes dificuldades nos Brahames que vinham encapar as rendas, e faziam medp de aver el-Rei de ficar defraudado. A isto acordiram os padres dizendo ao Governador que eles lhes buscariam cristãos aboandos que corressem os direitos reais, e que mandasse castigar as cabeças daquele motim"/id=ivc-goncalo-da-silveira-his1-78
-               ls$text/new laws/obs="nenhum infiel vassalo de el-Rei de Portugal tivesse ou fizesse fazer pagodes, ou cerimónias gentílicas, nem festas públicas, sob pena de ser cativo e condenado a galés, e perder a fazenda, metade para o acusador e metade para as obras da ribueira. "
-               ls$text/new laws/obs="Que nenhum inifiel tivesse ofício público, por ser cousa absurda que o inimigo de Cristo tenha poder sobre os cristãos, e que com pretexto do ofício de el-Rei que tem, os moleste. Que nenhum oifical de justiça ou fazenda se servisse de algum infiel. "
-               ls$text/new laws/obs="Que os gentios, que tivessem semelhantes ofícios, fossem deles tirados, e se provessem em Cristãos novamente convertidos. "
-               ls$text/new laws/obs="Que as rendas, e terras de el-Rei tanto por tanto se arrendassem a cristãos e não aos gentios. "
-               ls$text/new laws/obs="Que os novamente convertidos herdassem aos gentios seus ascendentes e descendentes. Que os gentios não herdassem aos cristãos [antigo esquema de concentração de propriedade por herança]. Que as mulheres dos gentios fazendo-se cristãns fossem meeiras com seus maridos em toda a fazenda, conforme as leis de Portugal. "
-               ls$text/new laws/obs="Que os orfãos filhos de gentios, que não tivessem uso de razão, fossem tomados e batizados, e postos nas casas dos religiosos, pera serem ensinados na nossa fé; e os que tivessem tutores, ou curadores critãos, até serem emancipados. "
+            pevent$New laws in India/0/0/1557/obs="""
+               Since they could not pass to Etiópia. Jesuits advise governor on new laws. These laws where later aproved by Queen Catarina as regent in the young age of King Sebastião.
+               
+               |cit:|
+               Seguiu-se disto que as conversões foram muitas em número. 
+               Ouve porém grandes dificuldades nos Brahames que vinham encapar as rendas, 
+                e faziam medo de aver el-Rei de ficar defraudado. A isto acordiram os padres 
+                dizendo ao Governador que eles lhes buscariam cristãos abonados que corressem 
+                os direitos reais, e que mandasse castigar as cabeças daquele motim
+
+               nenhum infiel vassalo de el-Rei de Portugal tivesse ou fizesse fazer pagodes, 
+               ou cerimónias gentílicas, nem festas públicas, sob pena de ser cativo e 
+               condenado a galés, e perder a fazenda, metade para o acusador e metade 
+               para as obras da ribueira.
+               
+               Que nenhum inifiel tivesse ofício público, por ser cousa absurda que o 
+               inimigo de Cristo tenha poder sobre os cristãos, e que com pretexto do 
+               ofício de el-Rei que tem, os moleste. Que nenhum oifical de justiça 
+               ou fazenda se servisse de algum infiel.
+               
+               Que os gentios, que tivessem semelhantes ofícios, fossem deles tirados, 
+               e se provessem em Cristãos novamente convertidos.
+               
+               Que as rendas, e terras de el-Rei tanto por tanto se arrendassem a cristãos e não aos gentios.
+               
+               Que os novamente convertidos herdassem aos gentios seus ascendentes e descendentes. 
+               Que os gentios não herdassem aos cristãos [antigo esquema de concentração de propriedade por herança]. 
+               Que as mulheres dos gentios fazendo-se cristãns fossem meeiras com seus maridos em toda a fazenda, 
+               conforme as leis de Portugal.
+               Que os orfãos filhos de gentios, que não tivessem uso de razão, fossem tomados e batizados, 
+               e postos nas casas dos religiosos, pera serem ensinados na nossa fé; e os que tivessem tutores, 
+               ou curadores critãos, até serem emancipados.
+               |fim cit.|
+                  """/id=ivc-goncalo-da-silveira-his1-146
 
                referido$Francisco Barreto/mesmo_que=ivc-francisco-barreto/id=ivc-goncalo-da-silveira-his1-78-per1-79
                   ls$office/Governador
@@ -561,7 +591,21 @@ kleio$gacto2.str/translations=143
          receptor$Gonçalo Vaz de Melo/mesmo_que=ivc-goncalo-vaz-de-melo/id=ivc-doc3-per2-66
             ls$jesuit/Padre
 
-      carta$ivc-doc4/12/2/1560/obs=About the trip of the first Jesuit missionaries to Mutapa, January-February 1560. Mostly about devotion activities the Jesuits promoted during the trip. Mentions that put some of the "ladaínhas" in Portuguese "em linguagem" so that the crew could benefit from them. Sends texts to António Quadros. [What does this means:] "pela viagem metemos ao capitão e companheiros desde o Sábado oitava dos reis treze graus de altura, ou alturas dos replandores da sempre Santa e sempre Virgem Madre de Deus nossa Senhora, tomando cada dia um grau, deles depois do jantar; assim como o piloto ia tomando cada dia a altura do sol material, assim íamos nós tomando o sol Virginal". Mentions the "Senhora do Baluarte" as a landmark of the approach to Moçambique from the sea [http:||www.hpip.org|pt|heritage|details|38].
+      carta$ivc-doc4/12/2/1560/obs="""
+      About the trip of the first Jesuit missionaries to Mutapa, January-February 1560.
+      Mostly about devotion activities the Jesuits promoted during the trip. Mentions 
+      that put some of the 'ladaínhas' in Portuguese 'em linguagem' so that the crew 
+      could benefit from them. Sends texts to António Quadros. [What does this means:] 
+      
+      pela viagem metemos ao capitão e companheiros desde o Sábado oitava dos reis 
+      treze graus de altura, ou alturas dos replandores da sempre Santa e sempre Virgem 
+      Madre de Deus nossa Senhora, tomando cada dia um grau, deles depois do jantar; 
+      assim como o piloto ia tomando cada dia a altura do sol material, assim íamos nós 
+      tomando o sol Virginal.
+      
+      Mentions the 'Senhora do Baluarte' as a landmark of the 
+      approach to Moçambique from the sea http://www.hpip.org/pt/heritage/details/38.
+      """
 
          emissor$Gonçalo da Silveira/mesmo_que=ivc-goncalo-da-silveira/id=ivc-doc4-per1-92
             ls$place-at/Chaul/15591225/obs=according to letter to António Quadros ivc-doc4
@@ -580,10 +624,10 @@ kleio$gacto2.str/translations=143
 
       lista$ivc-bio-antonio-de-almeida/0/0/1719/obs=tom.2.liv.3.cap.30
 
-         n$António de Almeida/id=ivc-bio-antonio-de-almeida-per1-130
+         n$António de Almeida/id=ivc-bio-antonio-de-almeida-per1-130/xmesmo_que=deh-antonio-de-almeida
             ls$birth-place/Trancoso/15571100#Entrou na Companhia em Coimbra aos 4 de Janeiro de 1576 tendo dezoito anos e dois meses de idade
             ls$birth-date/15571100
-            ls$death/Xauceo?/15911017%O pdre Juvenci tem que morrera aos 16 de setembro
+            ls$death/Xauceo#Shiuchow/15911017%O padre Juvenci tem que morrera aos 16 de setembro
             ls$jesuit-entry/Coimbra/15760104%tendo dezoito anos e dois meses de idade
 
             pai$Fernão de Sequeira/id=ivc-bio-antonio-de-almeida-per1-130-per2-130
@@ -606,8 +650,20 @@ kleio$gacto2.str/translations=143
 
                referido$Michele Ruggieri/xmesmo_que=bio-michele-ruggieri/id=ivc-bio-antonio-de-almeida-per1-130-his5-135-per1-135
 
-            estadia$Xauceo (?)/0/8/1589/obs=Voltou a Macau mais do que uma vez por doença, faleceu em Xauceo p.392/id=ivc-bio-antonio-de-almeida-per1-130-his5-137
+            estadia$Xauceo (?)/0/8/1589/obs=Voltou a Macau mais do que uma vez por doença, faleceu em Xauceo [Shiuchow] p.392/id=ivc-bio-antonio-de-almeida-per1-130-his5-137
 
                referido$Matteo Ricci/xmesmo_que=bio-matteo-ricci/id=ivc-bio-antonio-de-almeida-per1-130-his5-137-per1-137
 
-      carta$carta-antonio-almeida-1586/10/2/1586/resumo= "Feito já china, por amor daquele, que por mim se fez homem, sendo Deus,lhe dou muitas graças, porque em tão breve tempo me concedeu, o que outros em muito não puderam conseguir, isto é uma paz, e quietação do meu coração, de modo que já não tenho neste mundo, que desejar outra cousa mais, que a minha salvação e a dos chinas, e morrer nesta empresa. [Parágrafo] Confesso a Vossa Reverência que começando a escrever esta carta, não pude reprimir as lágrimas, considerando-me estar no meio dos chinas. Isto que passa em verdade, me parece imaginação e sonho, do qual sonho quero, que Vossa Reverência me desperte, e me faça sabedor, de que estou naquele mundo porquem tanto supirou o Santo Padre Francisco Xavier; no qual possa sofrer trabalhos, e padecer a morte, que é só o que desejo, estimo tanto a conversão deste grande reino, que uma vida, que tenho, me parece nada, e das mil, que tivera, as dera por ella" p.393-394
+      carta$carta-antonio-almeida-1586/10/2/1586/resumo="""
+      Feito já china, por amor daquele, que por mim se fez homem, sendo Deus,lhe dou 
+      muitas graças, porque em tão breve tempo me concedeu, o que outros em muito não 
+      puderam conseguir, isto é uma paz, e quietação do meu coração, de modo que já não 
+      tenho neste mundo, que desejar outra cousa mais, que a minha salvação e a dos 
+      chinas, e morrer nesta empresa. [Parágrafo] Confesso a Vossa Reverência que 
+      começando a escrever esta carta, não pude reprimir as lágrimas, considerando-me 
+      estar no meio dos chinas. Isto que passa em verdade, me parece imaginação e 
+      sonho, do qual sonho quero, que Vossa Reverência me desperte, e me faça sabedor, 
+      de que estou naquele mundo porquem tanto supirou o Santo Padre Francisco Xavier; 
+      no qual possa sofrer trabalhos, e padecer a morte, que é só o que desejo, estimo 
+      tanto a conversão deste grande reino, que uma vida, que tenho, me parece nada, e 
+      das mil, que tivera, as dera por ella""" p.393-394
