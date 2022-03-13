@@ -1,23 +1,43 @@
-kleio$gacto2.str/translations=159
-   fonte$imagem-virtude-coimbra/fonte-jesuita/obs= """
+kleio$gacto2.str/translations=1
+   fonte$ivcc/tipo=fonte-jesuita/ano=1719
+      /obs=""" 
       Franco (S.I.), Antonio, Imagem da virtude em o noviciado da Companhia de
-      Jesus no Real Collegio de Jesus de Coimbra em Portugal ... 
+      Jesus no Real Collegio de Jesus de Coimbra em Portugal
       (Évora: na Officina da Universidade, 1719)
       
-      Formato:
+      Inicialmente fez-se uma experiência de descrição detalhada,
+      com a vida de Gonçalo da Silveira.
+
+      Depois focamos nos missionários para a China."""
       
-      Inicialmente fez-se uma experiência de descrição detalhada."""/ano=1719
-
-      lista$imagem-virtude-cap.1/0/0/1719/obs=cit. Da-se sumária notícia do Real Colégio de Jesus de Coimbra. fim cit. Descreve o espaço da alta onde o colégio e a organização interna do edifício.
-
-         n$Colégio de Coimbra/id=colegio-coimbra/obs=Nots sobre a Histório do Colégio
+    
+      lista$ivc-c1/0/0/1719/obs=
+      Dá-se sumária notícia do Real Colégio de Jesus de Coimbra. 
+         Descreve o espaço da alta onde está localizaddo o colégio e a organização interna do edifício.
+      
+         n$Colégio de Coimbra/id=colegio-coimbra/obs=Notas sobre a História do Colégio
             ls$construction/start/15470414/obs=p.3
-            ls$regulations/Constituições do Colégio de Coimbra 1547/15531100/obs=Publication and start of application of the constitutions of the Coimbra College. Start of separation of the "noviços" from the other brothers.
-            ls$regulations/Regras do Noviciado/15550400/obs=Modo de proceder dos noviços, enviadas a S.Francisco de Borja, que segundo o a. deram origem a todos as outras
-            ls$event/End of "noviciado" in Coimbra and Évora/16190000/obs="Se juntaram todos os noviços da província na casa do Monte Olivete e Lisboa, que então começou a ser habitada"
+            ls$regulations/Constituições do Colégio de Coimbra 1547/15531100/obs="""
+            Publication and start of application of the constitutions of the 
+            Coimbra College. 
+            Start of separation of the "noviços" from the other brothers."""
+            ls$regulations/Regras do Noviciado/15550400/obs="""
+            Modo de proceder dos noviços, enviadas a 
+            S.Francisco de Borja, que segundo o a. deram 
+            origem a todos as outras"""
+            ls$event/End of "noviciado" in Coimbra and Évora/16190000/obs="""
+            Se juntaram todos os noviços da província na casa do Monte Olivete e Lisboa, 
+            que então começou a ser habitada"""
             ls$event/Restart of the "noviciado" at Coimbra and Évora/16300000
             ls$event/"Noviciado" relocates to second floor Colégio das Artes/16380000/obs=8 or 9 years after restart of "noviciado" p. 6
-            ls$event/Placement of painting from Saint Inácio's cell/16780202/obs=An imagem of Our Lady that was in Saint Inácio Cell in Rome come to the Coimbra College "na Capela da Senhora do Bom Despacho, que é a que está no corredor, em um nicho, que está onde se reveste o sacerdote, uma imagemn com Nossa Senhora com um menino em pé, que tem um livro nas mãos, e a Senhora apontando nele com as mãos." The story is told in p.7-8
+            ls$event/Placement of painting from Saint Inácio's cell/16780202/obs="""
+            An imagem of Our Lady that was in Saint Inácio Cell in Rome come to the 
+            Coimbra College 
+            'na Capela da Senhora do Bom Despacho, que é a que está no corredor, 
+            em um nicho, que está onde se reveste o sacerdote, uma imagemn com Nossa 
+            Senhora com um menino em pé, que tem um livro nas mãos, e a Senhora apontando 
+            nele com as mãos.'
+            The story is told in p.7-8"""
 
             referido$Francisco de Borja/id=ivc-francisco-de-borja
                ls$cargo/Comissário da Companhia em Espanha/15550400
@@ -384,13 +404,13 @@ kleio$gacto2.str/translations=159
 
             viagem$Chaul, defender de ataque/0/0/1558#inferido/id=ivc-goncalo-da-silveira-his1-85
 
-               referido$Gonçalo da Silveira/mesmo_que=ivc-goncalo-da-silveira/obs="""
-               With Chaul menaced by the "Melique", the Governor could not prepare a 
-               defense army and asked Gonçalo to preach the danger, which he did, 
-               gathering great number of people and donations to pay soldiers. "E em 
-               breve tempo se achou o governador em Chaul com três mil portugueses, que é 
-               o maior poder de gente Portuguesa, que ajunta o Vice-Rei, agora a gente da 
-               terra". Surprised, the atacker made peace"""/id=ivc-goncalo-da-silveira-his1-85-per1-85
+               referido$Gonçalo da Silveira/id=ivc-goncalo-da-silveira-his1-85-per1-85/mesmo_que=ivc-goncalo-da-silveira
+               /obs=""" With Chaul menaced by the 'Melique', the Governor could not  prepare a defense army and asked Gonçalo to preach the danger, which he  did, gathering great number of people and donations to pay soldiers. 
+               
+                  E  em breve tempo se achou o governador em Chaul com três mil portugueses,  que é o maior poder de gente Portuguesa, que ajunta o Vice-Rei, agora a  gente da terra. 
+                  
+                  Surprised, the atacker made peace"""
+               /id=ivc-goncalo-da-silveira-his1-per1
 
                referido$Francisco Barreto/mesmo_que=ivc-francisco-barreto/id=ivc-goncalo-da-silveira-his1-85-per2-85
 
@@ -418,7 +438,7 @@ kleio$gacto2.str/translations=159
                   rel$identification/not-same-as/Sebastião de Sá/ivc-goncalo-da-silveira-his3-85-per1-85/obs=têm o mesmo nome porque este foi aflihado de batismo do outro
 
                referido$Rei de Inhambane e Oronge/id=ivc-rei-de-inhambane
-
+                
                referido$Jorge de Santa Luzia/id=ivc-jorge-de-santa-luzia
                   ls$titulo/dom
                   ls$cargo/Bispo de Malaca%primeiro bispo de Malaca/obs=First bishop of Malaca
@@ -486,7 +506,11 @@ kleio$gacto2.str/translations=159
 
                referido$Constantino de Bragança/xmesmo_que=bio-constantino-de-braganca/id=ivc-goncalo-da-silveira-his4-117-per2-117
 
-            estadia$Inhambane/12/2/1560/obs=With presentes from Pantaleão de Sá and Francisco Barreto. Together with the two Jesuits brothers and two other portuguese, un-named. Sic on arrival, waited 17 days before going do Tonga the capital of the kingdom. Baptized the King, queen and her sister and 500 more people. Built church dedicated to Nossa Senhora da Assunção./id=ivc-goncalo-da-silveira-his3-118
+            estadia$Inhambane/12/2/1560/obs= """With presentes from Pantaleão de Sá and Francisco Barreto. Together with 
+            the two Jesuits brothers and two other portuguese, un-named. Sic on arrival, 
+            waited 17 days before going do Tonga the capital of the kingdom. Baptized the 
+            King, queen and her sister and 500 more people. Built church dedicated to 
+            Nossa Senhora da Assunção."""/id=ivc-goncalo-da-silveira-his3-118
 
                referido$Gonçalo da Silveira/mesmo_que=ivc-goncalo-da-silveira/id=ivc-goncalo-da-silveira-his3-118-per1-118
                   ls$estadia/Tonga/obs=for seven weeks
@@ -509,19 +533,27 @@ kleio$gacto2.str/translations=159
                ls$step/Monomotapa/15610101
 
                referido$António Caiado/id=ivc-antonio-caiado
-                  ls$cargo/Capitãp-mor dos portos do Reino de Monomotapa/obs=For the King of Monomotapa, close to the king. Send by the King of Monomotapa to bring father Gonçalo Silveira
+                  ls$cargo/Capitãp-mor dos portos do Reino de Monomotapa/obs="""
+                  For the King of Monomotapa, close to the king. Send by the King of 
+                  Monomotapa to bring father Gonçalo Silveira"""
 
-            pevent$Encontro com o rei de Monomotapa/0/1/1561/obs=Meeting with the King and his mother. António Caiado translates. Refuses gold and other riches. Shows imagem of Our lady that greatly impresses King. Offers imagem to King, builds oratory in the King's chambers for the image./id=ivc-goncalo-da-silveira-his5-123
+            pevent$Encontro com o rei de Monomotapa/0/1/1561/obs="""
+            Meeting with the King and his mother. António Caiado translates. Refuses gold 
+            and other riches. Shows imagem of Our lady that greatly impresses King. 
+            Offers imagem to King, builds oratory in the King's chambers for the image."""/id=ivc-goncalo-da-silveira-his5-123
 
                referido$Gonçalo da Silveira/mesmo_que=ivc-goncalo-da-silveira/id=ivc-goncalo-da-silveira-his5-123-per1-123
 
                referido$Rei de Monomotapa/id=ivc-goncalo-da-silveira-his5-123-per2-123
                   ls$baptized/date/15610125/obs=Followed by 300 noble men.
 
-            pevent$Morte do Padre Gonçalo/15/3/1561/obs=Alguns mouros convencem o rei que o Padre é Grande Feiticeiro e vão virar o povo contra o rei. O Rei decide matá-lo. Tem pre monição, faz confissão pascal aos portugueses e batiza mais 50 pessoas./id=ivc-goncalo-da-silveira-his10-124
+            pevent$Morte do Padre Gonçalo/15/3/1561/obs="""
+            Alguns mouros convencem o rei que o Padre é Grande Feiticeiro e vão virar o 
+            povo contra o rei. O Rei decide matá-lo. Tem pre monição, faz confissão 
+            pascal aos portugueses e batiza mais 50 pessoas."""/id=ivc-goncalo-da-silveira-his10-124
 
                referido$Gonçalo da Silveira/mesmo_que=ivc-goncalo-da-silveira/id=ivc-goncalo-da-silveira-his10-124-per1-124
-                  ls$death/date/15610315/obs=Killed by 8 men at orders of the King of Monomotapa. Also que 50 recently converted christians were killed. God send locust to avenge his deadth and later Franisco Barreto de Lima to conquer the gold mines in 1571
+                  ls$death/date/15610315/obs="""Killed by 8 men at orders of the King of Monomotapa. Also que 50 recently converted christians were killed. God send locust to avenge his deadth and later Franisco Barreto de Lima to conquer the gold mines in 1571"""
 
          evento$Recebimento da Infanta D. Isabel com Carlos V/20/1/1526/id=imagem-virtude-v2-his1-9/obs=v.2, p.3 Recebimento same as Marriage. But they will only meet in person later.
             ls$estadia/Almeirim/obs=Onde estava a Corte.
@@ -548,7 +580,9 @@ kleio$gacto2.str/translations=159
                   ls$titulo/Dona
                   ls$titulo/Rainha
 
-         evento$Arrival of first Inquisidores to Índia/0/0/1560/obs=The Jesuits were targeted for this p.25 Barreto had an arrow pierce his cap, António de Quadros was poisoned, Gonçalo Silveira was targeted in the island of Chorão. All escaped./id=ivc-bio-goncalo-da-silveira-his8-76
+         evento$Arrival of first Inquisidores to Índia/0/0/1560/obs= """The Jesuits were targeted for this p.25 Barreto had an arrow 
+         pierce his cap, António de Quadros was poisoned, 
+         Gonçalo Silveira was targeted in the island of Chorão. All escaped."""/id=ivc-bio-goncalo-da-silveira-his8-76
 
             referido$Gaspar/id=ivc-bio-goncalo-da-silveira-his8-76-per1-76/obs=Come to India with the first Inquisidores.
                ls$titulo/Dom
@@ -592,12 +626,17 @@ kleio$gacto2.str/translations=159
 
             referido$Gonçalo da Silveira/mesmo_que=ivc-goncalo-da-silveira/id=ivc-bio-goncalo-da-silveira-his2-107-per1-107
 
-            referido$Alvaro de Silveira/id=ivc-bio-goncalo-da-silveira-his2-107-per2-107/obs=Foi nomeado Capitão de Ormuz e morreu numa batalha no Bahraim. Seria amigo de Camões que lhe dedicou uma elegia "Não tenho razão de vos fazer meus castelo de vento sobre o mar..."
+            referido$Alvaro de Silveira/id=ivc-bio-goncalo-da-silveira-his2-107-per2-107/obs="""
+            Foi nomeado Capitão de Ormuz e morreu numa batalha no Bahraim. Seria amigo de 
+            Camões que lhe dedicou uma elegia 
+            'Não tenho razão de vos fazer meus castelo de vento sobre o mar...' """
                ls$titulo/dom
                rel$kin/brother/Gonçalo da Silveira/ivc-bio-goncalo-da-silveira-his2-107-per1-107
                rel$social/friend/Luís de Camões/bio-luis-de-camoes/obs=See Obras de Luiz de Camões, ed. by Visconde de Juromenha (Imprensa nacional, 1862), III, p.555
 
-      carta$ivc-doc1/0/0/1551/obs=transcrita parcialmente p.12-13/resumo=Aknowledge letter from Superior Miguel Torres to go to Porto, but could not oblige due to the great number of people that came to hear him, to confess, and these people convinvced the archbishop to make him stay.
+      carta$ivc-doc1/0/0/1551/obs=transcrita parcialmente p.12-13/resumo= """Aknowledge letter from Superior Miguel Torres to go to Porto, but could not 
+      oblige due to the great number of people that came to hear him, to confess, and 
+      these people convinvced the archbishop to make him stay."""
 
          emissor$Gonçalo Silveira/mesmo_que=ivc-goncalo-da-silveira/id=ivc-doc1-per1-56
 
@@ -605,7 +644,12 @@ kleio$gacto2.str/translations=159
             ls$jesuita-estatuto/Superior
             ls$jesuita-estatuto/Padre
 
-            referido$Baltazar Limpo/mesmo_que=ivc-baltazar-limpo/id=ivc-doc1-per2-56-per3-56/obs="Andamos largo espaço, dando-me conta de conceitos seus, e pareceia depois, que tudo nascia da nova edificação, e gosto, que tinha de ter ouvido ofruto que Deus fazia com as doutrinas e mais serviço da Companhia na sua cidade."
+            referido$Baltazar Limpo/mesmo_que=ivc-baltazar-limpo/id=ivc-doc1-per2-56-per3-56/obs="""
+                "Andamos largo espaço, dando-me conta de conceitos seus, e pareceia 
+                depois, que tudo nascia da nova edificação, e gosto, que tinha de ter 
+                ouvido ofruto que Deus fazia com as doutrinas e mais serviço da Companhia 
+                na sua cidade."
+            """
 
       carta$ivc-doc2/0/11/1551/obs=transcrita parcialmente p.14-15/resumo=VERIFICAR CONTEÚDO.
 
@@ -628,11 +672,11 @@ kleio$gacto2.str/translations=159
       that put some of the 'ladaínhas' in Portuguese 'em linguagem' so that the crew 
       could benefit from them. Sends texts to António Quadros. [What does this means:] 
       
-      pela viagem metemos ao capitão e companheiros desde o Sábado oitava dos reis 
+      "pela viagem metemos ao capitão e companheiros desde o Sábado oitava dos reis 
       treze graus de altura, ou alturas dos replandores da sempre Santa e sempre Virgem 
       Madre de Deus nossa Senhora, tomando cada dia um grau, deles depois do jantar; 
       assim como o piloto ia tomando cada dia a altura do sol material, assim íamos nós 
-      tomando o sol Virginal.
+      tomando o sol Virginal.""
       
       Mentions the 'Senhora do Baluarte' as a landmark of the 
       approach to Moçambique from the sea http://www.hpip.org/pt/heritage/details/38.
