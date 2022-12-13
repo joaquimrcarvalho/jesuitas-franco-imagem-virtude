@@ -1,5 +1,5 @@
 KleioTranslator - server version 10.18 - build 463 (MHK: 2082/issue140) (2022-06-15 14:08:16, MHK: 22/11/2022 12:27 )
-13-12-2022 1-54
+13-12-2022 1-58
 
 Processing data file ivcc.cli
 -------------------------------------------
@@ -12,7 +12,7 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 3
+Translation count: 4
 Obs: 
 ** Processing source fonte$ivcc
 14: lista$ivc-c1
