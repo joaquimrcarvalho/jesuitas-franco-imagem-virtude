@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=4
+kleio$gacto2.str/translations=5
    fonte$ivcc/tipo=fonte-jesuita/ano=1719/obs=""" 
       Franco (S.I.), Antonio, Imagem da virtude em o noviciado da Companhia de
       Jesus no Real Collegio de Jesus de Coimbra em Portugal
@@ -104,7 +104,12 @@ kleio$gacto2.str/translations=4
 
       lista$ivc-bio-goncalo-da-silveira/0/0/1719
 
-         n$Gonçalo da Silveira/id=ivc-goncalo-da-silveira/obs=Volume 2, p.1
+         n$Gonçalo da Silveira/id=ivc-goncalo-da-silveira/obs="""
+         Volume 2, p.1
+         Schurhammer, Francis Xavier, diz que estava nas listas dos moços fidalgos 
+         de D. João III, p.605 n.84
+         """
+
             ls$titulo/Dom/obs="Padre Dom Gonçalo, que assim se nomeou por não ser ainda proibido entre nós, o chamar-se Dom, quem o tinha de seus pais"
             ls$jesuita-estatutoa-estatuto/Padre
             ls$nota/um dos primeiros padres desta nossa província de Portugal
