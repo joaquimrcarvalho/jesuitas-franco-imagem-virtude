@@ -1,5 +1,5 @@
-KleioTranslator - server version 12.6 - build 573 2024-07-29 08:30:28
-18-10-2024 7-12
+KleioTranslator - server version 12.6 - build 577 2024-10-24 16:53:53
+25-10-2024 7-30
 
 Processing data file ivcc.cli
 -------------------------------------------
@@ -12,7 +12,7 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 5
+Translation count: 7
 Obs: 
 ** Processing source fonte$ivcc
 14: lista$ivc-c1
@@ -22,61 +22,61 @@ Obs:
 100: viagem$ivc-simao-rodrigues-his8-40
 105: lista$imagem-virtude-cap-2
 107: lista$ivc-bio-goncalo-da-silveira
-186: pevent$ivc-goncalo-da-silveira-his3-115
-198: viagem$imagem-virtude-v2-his1-18
-205: estadia$imagem-virtude-v2-his2-21
-220: viagem$imagem-virtude-v2-his1-22
-228: viagem$ivc-goncalo-da-silveira-his1-56
-230: estadia$ivc-goncalo-da-silveira-his2-56
-245: estadia$ivc-goncalo-da-silveira-his3-57
-264: estadia$ivc-goncalo-da-silveira-his5-61
-266: estadia$ivc-goncalo-da-silveira-his4-63
-270: viagem$ivc-goncalo-da-silveira-his5-64
-284: estadia$ivc-goncalo-da-silveira-his6-64
-290: estadia$ivc-goncalo-da-silveira-his7-67
-302: viagem$ivc-goncalo-da-silveira-his6-68
-319: estadia$ivc-goncalo-da-silveira-his7-69
-372: pevent$ivc-goncalo-da-silveira-his1-146
-389: pevent$ivc-goncalo-da-silveira-his2-80
-408: viagem$ivc-goncalo-da-silveira-his1-85
-418: pevent$ivc-goncalo-da-silveira-his2-85
-432: pevent$ivc-goncalo-da-silveira-his3-85
-456: pevent$ivc-goncalo-da-silveira-his1-91
-470: viagem$ivc-goncalo-da-silveira-his1-92
-489: estadia$ivc-goncalo-da-silveira-his2-101
-502: pevent$ivc-goncalo-da-silveira-his4-117
-514: estadia$ivc-goncalo-da-silveira-his3-118
-524: viagem$ivc-goncalo-da-silveira-his9-119
-544: pevent$ivc-goncalo-da-silveira-his5-123
-554: pevent$ivc-goncalo-da-silveira-his10-124
-558: evento$imagem-virtude-v2-his1-9
-569: evento$imagem-virtude-v2-his2-10
-586: evento$ivc-bio-goncalo-da-silveira-his8-76
-593: evento$ivc-bio-goncalo-da-silveira-his1-81
-600: evento$ivc-doc2-his6-61
-626: evento$ivc-bio-goncalo-da-silveira-his2-107
-640: carta$ivc-doc1
-655: carta$ivc-doc2
-662: carta$ivc-doc3
-684: carta$ivc-doc4
-701: lista$ivc-bio-antonio-de-almeida
-713: viagem$ivc-bio-antonio-de-almeida-per1-130-his1-130
-715: estadia$ivc-bio-antonio-de-almeida-per1-130-his1-131
-721: estadia$ivc-bio-antonio-de-almeida-per1-130-his2-131
-725: estadia$ivc-bio-antonio-de-almeida-per1-130-his5-135
-729: estadia$ivc-bio-antonio-de-almeida-per1-130-his5-137
-745: carta$carta-antonio-almeida-1586
+185: pevent$ivc-goncalo-da-silveira-his3-115
+197: viagem$imagem-virtude-v2-his1-18
+204: estadia$imagem-virtude-v2-his2-21
+219: viagem$imagem-virtude-v2-his1-22
+227: viagem$ivc-goncalo-da-silveira-his1-56
+229: estadia$ivc-goncalo-da-silveira-his2-56
+244: estadia$ivc-goncalo-da-silveira-his3-57
+263: estadia$ivc-goncalo-da-silveira-his5-61
+265: estadia$ivc-goncalo-da-silveira-his4-63
+269: viagem$ivc-goncalo-da-silveira-his5-64
+283: estadia$ivc-goncalo-da-silveira-his6-64
+289: estadia$ivc-goncalo-da-silveira-his7-67
+301: viagem$ivc-goncalo-da-silveira-his6-68
+318: estadia$ivc-goncalo-da-silveira-his7-69
+371: pevent$ivc-goncalo-da-silveira-his1-146
+388: pevent$ivc-goncalo-da-silveira-his2-80
+407: viagem$ivc-goncalo-da-silveira-his1-85
+417: pevent$ivc-goncalo-da-silveira-his2-85
+431: pevent$ivc-goncalo-da-silveira-his3-85
+455: pevent$ivc-goncalo-da-silveira-his1-91
+469: viagem$ivc-goncalo-da-silveira-his1-92
+488: estadia$ivc-goncalo-da-silveira-his2-101
+501: pevent$ivc-goncalo-da-silveira-his4-117
+513: estadia$ivc-goncalo-da-silveira-his3-118
+523: viagem$ivc-goncalo-da-silveira-his9-119
+543: pevent$ivc-goncalo-da-silveira-his5-123
+553: pevent$ivc-goncalo-da-silveira-his10-124
+557: evento$imagem-virtude-v2-his1-9
+568: evento$imagem-virtude-v2-his2-10
+585: evento$ivc-bio-goncalo-da-silveira-his8-76
+592: evento$ivc-bio-goncalo-da-silveira-his1-81
+599: evento$ivc-doc2-his6-61
+625: evento$ivc-bio-goncalo-da-silveira-his2-107
+639: carta$ivc-doc1
+654: carta$ivc-doc2
+661: carta$ivc-doc3
+683: carta$ivc-doc4
+700: lista$ivc-bio-antonio-de-almeida
+712: viagem$ivc-bio-antonio-de-almeida-per1-130-his1-130
+714: estadia$ivc-bio-antonio-de-almeida-per1-130-his1-131
+720: estadia$ivc-bio-antonio-de-almeida-per1-130-his2-131
+724: estadia$ivc-bio-antonio-de-almeida-per1-130-his5-135
+728: estadia$ivc-bio-antonio-de-almeida-per1-130-his5-137
+744: carta$carta-antonio-almeida-1586
 *** End of File
 
-Line 172 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-alvaro-silveira) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 390 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-constantino-de-braganca) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 506 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-alvaro-silveira) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 508 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-constantino-de-braganca) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 702 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-antonio-de-almeida) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 717 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-alessandro-valignano) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 723 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-michele-ruggieri) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 727 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-michele-ruggieri) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 731 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-matteo-ricci) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 171 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-alvaro-silveira) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 389 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-constantino-de-braganca) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 505 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-alvaro-silveira) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 507 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-constantino-de-braganca) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 701 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-antonio-de-almeida) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 716 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-alessandro-valignano) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 722 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-michele-ruggieri) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 726 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-michele-ruggieri) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 730 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (bio-matteo-ricci) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
 
 Structure file: /usr/local/timelink/clio/src/gacto2.str
 Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
