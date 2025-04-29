@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=9
+kleio$gacto2.str/translations=12
    fonte$ivcc/tipo=fonte-jesuita/ano=1719/obs="""
       Franco (S.I.), Antonio, Imagem da virtude em o noviciado da Companhia de
       Jesus no Real Collegio de Jesus de Coimbra em Portugal
@@ -78,8 +78,8 @@ kleio$gacto2.str/translations=9
 
             viagem$Portugal Índia/0/0/1541/id=ivc-francisco-xavier-his4-38
 
-         n$Paulo Camarte/id=ivc-paulo-camarte
-            ls$nacionalidade/Itália
+               n$Paulo Camarte/id=ivc-paulo-camarte
+                  ls$nacionalidade/Itália
 
          n$Simão Rodrigues/id=ivc-simao-rodrigues/obs=Membro do grupo inicial de Jesuítas, primeiro em Portugal com Francisco Xavier.
             ls$estadia/Mosteiro de Santo Antão-o-Velho/15410000/obs="Na raiz do monte do castelo de Lisboa"
@@ -141,7 +141,7 @@ kleio$gacto2.str/translations=9
                ls$cargo/Alcaide Mor de Alenquer
                ls$mission/Embaixador para o casamento de D.Isabel com Carlos V.
                ls$estadia/Almeirim/15260223/obs=Seguindo a Corte
-               ls$dead-tomb/Igreja de Góis/obs=Buried at the Igreja de Góis,see p.40 cap. XIII "http://www.patrimoniocultural.gov.pt|pt/patrimonio|patrimonio-imovel/pesquisa-do-patrimonio|classificado-ou-em-vias-de-classificacao/geral/view/70290"
+               ls$dead-tomb/Igreja de Góis/obs=Buried at the Igreja de Góis,see p.40 cap. XIII "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=2800"
                rel$parentesco/pai/Filipa de Vilhena/ivc-filipa-de-vilhena
 
                ppai$Nuno Martins da Silveira/id=ivc-goncalo-da-silveira-per1-per1-5
@@ -480,7 +480,7 @@ kleio$gacto2.str/translations=9
                   ls$titulo/Senhor
 
                referida$Luísa/id=ivc-doc4-per2-92-per1-96/obs=See https:|www.geni.com|people|Luisa-de-Vasconcelos|6000000017017436413
-                  ls$titulo/ls$titulo/dona
+                  ls$titulo/dona
                   rel$kin/wife/Pantaleão de Sá/ivc-pantaleao-de-sa
 
             estadia$Ilha de Moçambique/0/2/1560/id=ivc-goncalo-da-silveira-his2-101
@@ -692,7 +692,7 @@ kleio$gacto2.str/translations=9
                ls$titulo/Senhor
 
             referida$Luísa/mesmo_que=ivc-doc4-per2-92-per1-96/id=ivc-doc4-per2-92-per2-102
-               ls$titulo/ls$titulo/dona
+               ls$titulo/dona
                rel$kin/wife/Pantaleão de Sá/ivc-pantaleao-de-sa
 
       lista$ivc-bio-antonio-de-almeida/0/0/1719/obs=tom.2.liv.3.cap.30

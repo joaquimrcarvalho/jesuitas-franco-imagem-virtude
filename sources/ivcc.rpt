@@ -1,5 +1,5 @@
-KleioTranslator - server version 12.6 - build 577 2024-10-24 16:53:53
-17-1-2025 5-15
+KleioTranslator - server version 12.8 - build 591 2025-03-14 12:56:23
+15-3-2025 4-28
 
 Processing data file ivcc.cli
 -------------------------------------------
@@ -12,7 +12,7 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 9
+Translation count: 12
 Obs: 
 ** Processing source fonte$ivcc
 14: lista$ivc-c1
@@ -89,4 +89,5 @@ Temp file with ids: /kleio-home/sources/jesuitas-franco-imagem-virtude/sources/i
 ** - /kleio-home/sources/jesuitas-franco-imagem-virtude/sources/ivcc.cli-renamed to- /kleio-home/sources/jesuitas-franco-imagem-virtude/sources/ivcc.old
 0  errors. 
 0  warnings.
+Groups in this file:[receptor,emissor,carta,evento,estadia,pevent,referida,mmae,pmae,mae,ppai,pai,viagem,rel,referido,ls,n,lista,fonte,kleio]
 Translation finished.
